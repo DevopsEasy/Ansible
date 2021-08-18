@@ -1,6 +1,6 @@
 ### Basic Software Needed for Ansible
 
-* Git Bash: [refer here](https://git-scm.com/downloads)
+* Git Bash: [Refer Here](https://git-scm.com/downloads)
 * Visual Studio Code: [Refer Here](https://code.visualstudio.com/download)
 * Create AWS Free Tier Account
 
